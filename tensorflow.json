@@ -1,0 +1,461 @@
+[
+  {
+    "title": "… In 2019, Google released TensorFlow 2, which was a substantial departure from TensorFlow \n1. In this chapter, we will introduce TensorFlow 2, explain how it can be used in economics …",
+    "url": "https://link.springer.com/content/pdf/10.1007/978-1-4842-6373-0_1?pdf=chapter%20toc"
+  },
+  {
+    "title": "… This review covers the core concepts and design decisions of TensorFlow. TensorFlow, \noriginally … We review several core concepts of TensorFlow such as graph construction functions, …",
+    "url": "https://journals.sagepub.com/doi/abs/10.3102/1076998619872761"
+  },
+  {
+    "title": "… TensorFlow and outline some of its applications. We also discuss the question of what \nTensorFlow … Although TensorFlow is not purely functional, many of its uses are concerned with …",
+    "url": "https://dl.acm.org/doi/abs/10.1145/2951913.2976746"
+  },
+  {
+    "title": "The TensorFlow Distributions library implements a vision of probability theory adapted to the \nmodern deep-learning paradigm of end-to-end differentiable computation. Building on two …",
+    "url": "https://arxiv.org/abs/1711.10604",
+    "pdf_url": "https://arxiv.org/pdf/1711.10604"
+  },
+  {
+    "title": "… TensorFlow, an open source deep learning software library for defining, training and deploying \nmachine learning models. In this paper, we review TensorFlow … -cases of TensorFlow in …",
+    "url": "https://arxiv.org/abs/1610.01178",
+    "pdf_url": "https://arxiv.org/pdf/1610.01178"
+  },
+  {
+    "title": "… TensorFlow library. Therefore, this first chapter focuses mainly on what has changed in the \nTensorFlow library since its first version, TensorFlow … to be introduced, as TensorFlow 2.x is …",
+    "url": "https://link.springer.com/chapter/10.1007/978-1-4842-5558-2_1"
+  },
+  {
+    "title": "… details of TensorFlow, the best available source is the official documentation at www.tensorflow.org/ \nextend/architecture. This book will sprint ahead and use TensorFlow without slowing …",
+    "url": "https://www.academia.edu/download/93063261/sample_ch01_Shukla_Maching-Learning_January23.pdf",
+    "pdf_url": "https://www.academia.edu/download/93063261/sample_ch01_Shukla_Maching-Learning_January23.pdf"
+  },
+  {
+    "title": "… the TensorFlow dataflow … TensorFlow in production, and TensorFlow is helping our research \ncolleagues to make new advances in machine learning. Since we released TensorFlow as …",
+    "url": "https://www.usenix.org/conference/osdi16/technical-sessions/presentation/abadi",
+    "pdf_url": "https://www.usenix.org/system/files/conference/osdi16/osdi16-abadi.pdf"
+  },
+  {
+    "title": "TensorFlow is an end-to-end open source platform for machine learning. It has a comprehensive, \nflexible ecosystem of tools, libraries, and community resources that lets researchers …",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021zndo...4758419D/abstract"
+  },
+  {
+    "title": "… TensorFlow in more detail. Section 2 describes the programming model and basic concepts \nof the TensorFlow … we have found helpful when using TensorFlow, and Section 9 describes …",
+    "url": "https://arxiv.org/abs/1603.04467",
+    "pdf_url": "https://arxiv.org/pdf/1603.04467.pdf%20http://arxiv.org/abs/1603.04467"
+  },
+  {
+    "title": "… ML have appeared, to our knowledge TensorFlow.js is the first to … We have attempted to \nensure that TensorFlow.js meets a … main aspects of our experience building TensorFlow.js. First, …",
+    "url": "https://proceedings.mlsys.org/paper_files/paper/2019/hash/acd593d2db87a799a8d3da5a860c028e-Abstract.html",
+    "pdf_url": "https://proceedings.mlsys.org/paper_files/paper/2019/file/acd593d2db87a799a8d3da5a860c028e-Paper.pdf"
+  },
+  {
+    "title": "… Also, this chapter introduces the paradigm of TensorFlow coding so that readers are accustomed \nto the basic syntax before moving on to more-involved implementations in TensorFlow. …",
+    "url": "https://link.springer.com/content/pdf/10.1007/978-1-4842-3096-1.pdf",
+    "pdf_url": "https://www.academia.edu/download/58673766/2017_Book_ProDeepLearningWithTensorFlow.pdf"
+  },
+  {
+    "title": "… In this study, we used Tensorflow, one of the most popular deep learning libraries to classify \n… In this study, classification was made using the Tensorflow library. Tensorflow is an open-…",
+    "url": "https://ieeexplore.ieee.org/abstract/document/8093521/",
+    "pdf_url": "https://xilirprojects.com/wp-content/uploads/2023/01/12.-Data-Classification-with-Deep-Learning-using.pdf"
+  },
+  {
+    "title": "… , execution environment or the TensorFlow framework. Our empirical … use TensorFlow to \ndevelop DL applications as TensorFlow users (or TF users). Our study collected 175 TensorFlow …",
+    "url": "https://dl.acm.org/doi/abs/10.1145/3213846.3213866",
+    "pdf_url": "https://foreverzyh.github.io/uploads/An%20Empirical%20Study%20on%20TensorFlow%20Program%20Bugs-issta18.pdf"
+  },
+  {
+    "title": "… that we could not get the standard distributed TensorFlow to scale as well as our … TensorFlow. \nWhen comparing images processed per second while running the standard TensorFlow …",
+    "url": "https://arxiv.org/abs/1802.05799",
+    "pdf_url": "https://arxiv.org/pdf/1802.05799"
+  },
+  {
+    "title": "… executed in Theano, TensorFlow or CNTK. Keras and TensorFlow can construct models of … \n), now we discuss models for object recognition and Keras TensorFlow; Faster-CCN R, R-FCN…",
+    "url": "https://iopscience.iop.org/article/10.1088/1757-899X/844/1/012024/meta",
+    "pdf_url": "https://iopscience.iop.org/article/10.1088/1757-899X/844/1/012024/pdf"
+  },
+  {
+    "title": "… Before going into more depth about what TensorFlow is and its key features, we will \nbriefly give some exciting examples of how TensorFlow is used in some cutting-edge real-world …",
+    "url": "https://books.google.com/books?hl=en&lr=&id=sUowDwAAQBAJ&oi=fnd&pg=PP1&dq=Tensorflow&ots=oFbx8q-lvz&sig=qWFFD12ejIAViAwlPidyGIQESm4"
+  },
+  {
+    "title": "… Mesh-TensorFlow, a … -TensorFlow, the user can specify any tensor-dimensions to be split \nacross any dimensions of a multi-dimensional mesh of processors. A Mesh-TensorFlow graph …",
+    "url": "https://proceedings.neurips.cc/paper/2018/hash/3a37abdeefe1dab1b30f7c5c7e581b93-Abstract.html",
+    "pdf_url": "https://proceedings.neurips.cc/paper/2018/file/3a37abdeefe1dab1b30f7c5c7e581b93-Paper.pdf"
+  },
+  {
+    "title": ""
+  },
+  {
+    "title": ""
+  },
+  {
+    "title": "This research study about image classification by using the deep neural network (DNN) or \nalso known as Deep Learning by using framework TensorFlow. Python is used as a …",
+    "url": "https://www.researchgate.net/profile/Mohd-Azlan-Abu/publication/332850035_A_study_on_Image_Classification_based_on_Deep_Learning_and_Tensorflow/links/5cccd2dfa6fdccc9dd8b3e69/A-study-on-Image-Classification-based-on-Deep-Learning-and-Tensorflow.pdf",
+    "pdf_url": "https://www.researchgate.net/profile/Mohd-Azlan-Abu/publication/332850035_A_study_on_Image_Classification_based_on_Deep_Learning_and_Tensorflow/links/5cccd2dfa6fdccc9dd8b3e69/A-study-on-Image-Classification-based-on-Deep-Learning-and-Tensorflow.pdf"
+  },
+  {
+    "title": "… We present TensorFlow Extended (TFX), a TensorFlowbased general-purpose machine \nlearning platform implemented at Google. By integrating the aforementioned components into …",
+    "url": "https://dl.acm.org/doi/abs/10.1145/3097983.3098021",
+    "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3097983.3098021"
+  },
+  {
+    "title": "… potential of TensorFlow for developing HPC applications. Our tests show that TensorFlow \ncan … , we have developed a TensorFlow Resolver to automatically specify TensorFlow Cluster …",
+    "url": "https://ieeexplore.ieee.org/abstract/document/8778235/",
+    "pdf_url": "https://arxiv.org/pdf/1903.04364"
+  },
+  {
+    "title": "We describe TensorFlow-Serving, a system to serve machine learning models inside Google \nwhich is also available in the cloud and via open-source. It is extremely flexible in terms of …",
+    "url": "https://arxiv.org/abs/1712.06139",
+    "pdf_url": "https://arxiv.org/pdf/1712.06139"
+  },
+  {
+    "title": "… The TensorFlow Graph Visualizer shows a convolutional network for classifying images (tf … \ndesign study of the TensorFlow Graph Visualizer, part of the TensorFlow machine intelligence …",
+    "url": "https://ieeexplore.ieee.org/abstract/document/8019861/",
+    "pdf_url": "https://cse.unl.edu/~ihowell/Documents/Wongsuphasawat%20et%20al:%20Visualizing%20Dataflow%20Graphs%20of%20Deep%20Learning%20Models%20in%20TensorFlow.pdf"
+  },
+  {
+    "title": "TensorFlow is Google's open source machine learning and deep learning framework, which \nis convenient and flexible to build the current mainstream deep learning model. …",
+    "url": "https://iopscience.iop.org/article/10.1088/1757-899X/490/4/042022/meta",
+    "pdf_url": "https://iopscience.iop.org/article/10.1088/1757-899X/490/4/042022/pdf"
+  },
+  {
+    "title": "… of Python and Tensorflow, this book … using Tensorflow. This book provides detailed coding \nexplanation along with the output to facilitate the readers and aids easy learning of Tensorflow …",
+    "url": "https://link.springer.com/content/pdf/10.1007/978-3-030-57077-4.pdf"
+  },
+  {
+    "title": "… TensorFlow API, but there’s still a lot more to learn. The first place to look is the official \ndocumentation, which you can find at www.tensorflow.… how to harness TensorFlow to develop your …",
+    "url": "https://books.google.com/books?hl=en&lr=&id=MVxPDwAAQBAJ&oi=fnd&pg=PA3&dq=Tensorflow&ots=xlmNGJQ2D_&sig=oZ0BvLRclkclKHK4H8m3d83kY2w"
+  },
+  {
+    "title": "… TensorFlow is a more complex library for distributed … TensorFlow (TF) was created at Google \nand supports many of its large-… bundled with TensorFlow, and it relies on TensorFlow for all …",
+    "url": "https://books.google.com/books?hl=en&lr=&id=X5ySEAAAQBAJ&oi=fnd&pg=PT10&dq=Tensorflow&ots=yC_xvm69xG&sig=q531oyjKa28-jkVrFDenaKoFciQ",
+    "pdf_url": "https://www.stembook.org/sites/default/files/scf_members_attachment/pdf-hands-on-machine-learning-with-scikit-learn-keras-and-tensorflo-aurlien-gron-pdf-download-free-book-e25751f.pdf"
+  },
+  {
+    "title": "… Transform and normalize data: Normally, input datasets do not come in the shape TensorFlow \nwould expect so we need to transform TensorFlow them to the accepted shape. The data …",
+    "url": "https://books.google.com/books?hl=en&lr=&id=LVQoDwAAQBAJ&oi=fnd&pg=PP1&dq=Tensorflow&ots=kBOGh4N7EL&sig=blVOBu0qXhMBYc2qGMG5uS4FWsQ",
+    "pdf_url": "https://forum.cambricon.com/uploadfile/user/file/20190709/1562668282856425.pdf"
+  },
+  {
+    "title": ""
+  },
+  {
+    "title": ""
+  },
+  {
+    "title": "… these limitations of TensorFlow. Specifically, we extend TensorFlow for scalable execution \n… peak potential of the system, while TensorFlow is geared towards exploiting the architecture …",
+    "url": "https://arxiv.org/abs/1603.02339",
+    "pdf_url": "https://arxiv.org/pdf/1603.02339"
+  },
+  {
+    "title": "In machine learning, models capture intelligence from data using algorithms implemented \non frameworks like TensorFlow. Models learn during the training phase; an iterative process …",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1877050920309856",
+    "pdf_url": "https://www.sciencedirect.com/science/article/pii/S1877050920309856/pdf?md5=93bc8f210ef2421100d5e3b0ad235a2b&pid=1-s2.0-S1877050920309856-main.pdf"
+  },
+  {
+    "title": "Learn advanced state-of-the-art deep learning techniques and their applications using \npopular Python libraries Key Features Build a strong foundation in neural networks and deep …",
+    "url": "https://books.google.com/books?hl=en&lr=&id=ESKEDwAAQBAJ&oi=fnd&pg=PP1&dq=Tensorflow&ots=y5Gy__vn-M&sig=1FmSVzl6onW_2HlkS6joLKOfTxk"
+  },
+  {
+    "title": "… neural networks using TensorFlow and the Keras … TensorFlow operations and can be easily \nused even in more advanced settings, integrating tightly with all the features of TensorFlow …",
+    "url": "https://ieeexplore.ieee.org/abstract/document/9321429/",
+    "pdf_url": "https://ieeexplore.ieee.org/iel7/10207/9321411/09321429.pdf"
+  },
+  {
+    "title": "… The core of TensorFlow is implemented in C++ programming … TensorFlow bindings for \nprogramming languages C#, Julia, Rust, Scala, etc. There are several benefits using TensorFlow …",
+    "url": "https://ieeexplore.ieee.org/abstract/document/8439714/"
+  },
+  {
+    "title": "… a TensorFlow I/O benchmark, mimicking the STREAM benchmark, to evaluate the \nbandwidth of TensorFlow I/O on HPC systems. • We design and implement a TensorFlow mini-…",
+    "url": "https://ieeexplore.ieee.org/abstract/document/8638422/",
+    "pdf_url": "https://arxiv.org/pdf/1810.03035"
+  },
+  {
+    "title": "… , Keras and TensorFlow are clearly the most popular choices (see Figure 5). TensorFlow 2.0 \nis … to take the best of both worlds from the great features found in Keras and TensorFlow 1.x: …",
+    "url": "https://books.google.com/books?hl=en&lr=&id=BVnHDwAAQBAJ&oi=fnd&pg=PP1&dq=Tensorflow&ots=K-sacsXBYW&sig=FF3ELsJdVHmMIbMj3_gQT0fyjXU",
+    "pdf_url": "https://www.packtpub.com/product/deep-learning-with-tensorflow-2-and-keras-second-edition/9781838823412"
+  },
+  {
+    "title": "… In this book, we will use TensorFlow from Google as the deep-learning library since it has \nseveral advantages. Before moving on to TensorFlow, let’s look at some of the key advantages …",
+    "url": "https://link.springer.com/chapter/10.1007/978-1-4842-3096-1_2"
+  },
+  {
+    "title": "… Recently, libraries for building such Tensor Networks in TensorFlow have … TensorFlow \ntensors and the tensor objects in Tensor Networks [73]. The recently announced TensorFlow 2 [74…",
+    "url": "https://arxiv.org/abs/2003.02989",
+    "pdf_url": "https://arxiv.org/pdf/2003.02989.pdf%20-%20Page%202"
+  },
+  {
+    "title": "Classification of objects into their specific classes is always been significant tasks of machine \nlearning. As the study of flower, categorizing specific class of flower is important subject in …",
+    "url": "https://ieeexplore.ieee.org/abstract/document/8336590/"
+  },
+  {
+    "title": "Deep learning (DL) is a process that consists of a set of methods which classifies the raw data \ninto meaningful information fed into the machine. DL performs classification tasks directly …",
+    "url": "https://link.springer.com/chapter/10.1007/978-3-030-14070-0_67"
+  },
+  {
+    "title": "… However, the open-sourced TensorFlow did not seem to show an advantage in … ; TensorFlow \ndid not perform well in their test results. In order to evaluate the distributed TensorFlow, we …",
+    "url": "https://link.springer.com/article/10.1007/s10766-017-0520-3",
+    "pdf_url": "https://readingxtra.github.io/docs/RMDA/ijpp18-jia-chengfan.pdf"
+  },
+  {
+    "title": "TensorFlow is a powerful, programmable system for machine learning. This paper aims to \nprovide the basics of a conceptual framework for understanding the behavior of TensorFlow …",
+    "url": "https://dl.acm.org/doi/abs/10.1145/3088525.3088527",
+    "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3088525.3088527"
+  },
+  {
+    "title": "Tensor Train decomposition is used across many branches of machine learning. We present \nT3F--a library for Tensor Train decomposition based on TensorFlow. T3F supports GPU …",
+    "url": "https://www.jmlr.org/papers/v21/18-008.html",
+    "pdf_url": "https://www.jmlr.org/papers/volume21/18-008/18-008.pdf"
+  },
+  {
+    "title": "… , we also include both versions of TensorFlow. The nb_06_05 notebook only works with \nTensorFlow v1 because we need weights that are only provided in that version of TensorFlow. …",
+    "url": "https://books.google.com/books?hl=en&lr=&id=-bYCEAAAQBAJ&oi=fnd&pg=PA1&dq=Tensorflow&ots=xV70ZndYUv&sig=mFMwIU6p1d2U0FZnUSt3G0iIgME"
+  },
+  {
+    "title": "… we have in this book being added to the TensorFlow repository, for example. We also aim to \n… the TensorFlow Lite for Microcon‐trollers framework. This is a variant of the TensorFlow Lite …",
+    "url": "https://books.google.com/books?hl=en&lr=&id=tn3EDwAAQBAJ&oi=fnd&pg=PP1&dq=Tensorflow&ots=jqmoet6dv_&sig=7boDQr5tOZgtazsAOtaketC7I7A",
+    "pdf_url": "https://tinymlbook.com/wp-content/uploads/2020/11/TinyML_preview.pdf"
+  },
+  {
+    "title": "… TensorFlow Create systems that can evolve and scale during their life cycle Use CNNs in \nimage recognition and classification Use TensorFlow … learning Build TensorFlow models that …",
+    "url": "https://books.google.com/books?hl=en&lr=&id=dBBrDwAAQBAJ&oi=fnd&pg=PP1&dq=Tensorflow&ots=Zvv75MMN_8&sig=-qMUhPP9wrLNfreRozTJ0RdEKCg"
+  },
+  {
+    "title": "… We review TensorFlow and place it in the context of modern deep learning techniques and \n… The remainder of this paper will provide a comprehensive overview of TensorFlow and …",
+    "url": "https://iopscience.iop.org/article/10.1088/1742-6596/2273/1/012008/meta",
+    "pdf_url": "https://iopscience.iop.org/article/10.1088/1742-6596/2273/1/012008/pdf"
+  },
+  {
+    "title": "… the latest version of TensorFlow. It provides a … to TensorFlow 2, describing why it is considered \na complete platform for machine learning. It describes the various additions to TensorFlow …",
+    "url": "https://link.springer.com/content/pdf/10.1007/978-1-4842-6150-7.pdf",
+    "pdf_url": "https://www.academia.edu/download/106639170/1.pdf"
+  },
+  {
+    "title": "… TensorFlow library. Therefore, this first chapter focuses mainly on what has changed in the \nTensorFlow library since its first version, TensorFlow … the internals of TensorFlow; the second …",
+    "url": "https://books.google.com/books?hl=en&lr=&id=3_rEDwAAQBAJ&oi=fnd&pg=PR5&dq=Tensorflow&ots=ib48fOgegX&sig=n4fmzbERXz7xSbXlpzPUDE7jayc"
+  },
+  {
+    "title": "… TensorFlow to MPC protocols. The CRYPTFLOW toolchain takes as input code written in \nvanilla TensorFlow… logistic regression over MNIST dataset in TensorFlow as shown in Figure 2. …",
+    "url": "https://ieeexplore.ieee.org/abstract/document/9152660/",
+    "pdf_url": "https://arxiv.org/pdf/1909.07814"
+  },
+  {
+    "title": "… We first ensured that Tensorflow and TensorFlow Lite compiles with the musl C library [2] \non … To show the advantage of using TensorFlow Lite in secureTF instead of TensorFlow for …",
+    "url": "https://dl.acm.org/doi/abs/10.1145/3423211.3425687",
+    "pdf_url": "https://arxiv.org/pdf/2101.08204"
+  },
+  {
+    "title": "The TensorD toolbox is a Python tensor library built on TensorFlow. It provides tensor \ndecomposition methods as well as basic tensor operations. In addition, other features of TensorD …",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0925231218310178"
+  },
+  {
+    "title": "… We introduce TensorFlow Ranking, the first open source library for solving large-scale … top \nof TensorFlow and can thus fully leverage the advantages of this platform. TensorFlow Rank…",
+    "url": "https://dl.acm.org/doi/abs/10.1145/3292500.3330677",
+    "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3292500.3330677"
+  },
+  {
+    "title": "In this paper, we present an analysis of important aspects that arise during the development \nof neural network applications. Our aim is to determine if the choice of library can impact the …",
+    "url": "https://www.mdpi.com/1424-8220/22/22/8872",
+    "pdf_url": "https://www.mdpi.com/1424-8220/22/22/8872"
+  },
+  {
+    "title": "… Our system is implemented as an extension to the popular opensource framework \nTensorFlow. By integrating our acceleration framework tightly into TensorFlow, machine learning …",
+    "url": "https://dl.acm.org/doi/abs/10.1145/3089801.3089805",
+    "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3089801.3089805"
+  },
+  {
+    "title": "We show that the stochasticity in training ResNets for image classification on GPUs in TensorFlow \nis dominated by the non-determinism from GPUs, rather than by the initialisation of the …",
+    "url": "https://arxiv.org/abs/2001.11396",
+    "pdf_url": "https://arxiv.org/pdf/2001.11396"
+  },
+  {
+    "title": "Build your own pipeline based on modern TensorFlow approaches rather than outdated \nengineering concepts. This book shows you how to build a deep learning pipeline for real-life …",
+    "url": "https://books.google.com/books?hl=en&lr=&id=5hHGDwAAQBAJ&oi=fnd&pg=PR3&dq=Tensorflow&ots=Gc9CLSnqxN&sig=MagUAyUqUncj1dOX2myHcsx-ud4"
+  },
+  {
+    "title": "… While TensorFlow has only been available for a little over a … The open source version of \nTensorFlow was originally only … In this paper, we will compare performance of TensorFlow …",
+    "url": "https://academicworks.cuny.edu/bx_pubs/50/",
+    "pdf_url": "https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=1054&context=bx_pubs"
+  },
+  {
+    "title": "Face recognition is a hot research field in computer vision, and it has a high practical value \nfor the detection and recognition of specific sensitive characters. Research found that in …",
+    "url": "https://ieeexplore.ieee.org/abstract/document/8054070/"
+  },
+  {
+    "title": "… TensorFlow is a high-level dataflow framework for building ML applications and has … as \nTensorFlow. In this paper, we build a high-level fault injection framework for TensorFlow called …",
+    "url": "https://ieeexplore.ieee.org/abstract/document/8539213/"
+  },
+  {
+    "title": "Deep learning has absolutely dominated computer vision with creating a model that most \naccurately classifies the given image in the dataset and surpassing human performance. In …",
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3673214"
+  },
+  {
+    "title": "Key FeaturesGet the first book on the market that shows you the key aspects TensorFlow, \nhow it works, and how to use it for the second generation of machine learningWant to perform …",
+    "url": "https://dl.acm.org/doi/abs/10.5555/3066979"
+  },
+  {
+    "title": "… We focus on TensorFlow as it is the most popular framework used today for … to TensorFlow. \nTensorFI can be used to inject both hardware and software faults in the outputs of TensorFlow …",
+    "url": "https://ieeexplore.ieee.org/abstract/document/9251063/",
+    "pdf_url": "https://arxiv.org/pdf/2004.01743"
+  },
+  {
+    "title": ""
+  },
+  {
+    "title": "… train a logistic regression model in TensorFlow™, with the primary purpose to illustrate how \nthe … advantages of the TensorFlow™, the present article aims to introduce TensorFlow™ by …",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6861752/",
+    "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6861752/"
+  },
+  {
+    "title": "… [58] collect and classify a variety of TensorFlow program bugs from … TensorFlow, as many \nother popular machine learning … In this work, we focus on a class of TensorFlow bugs that relate …",
+    "url": "https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2020.15",
+    "pdf_url": "https://drops.dagstuhl.de/storage/00lipics/lipics-vol166-ecoop2020/LIPIcs.ECOOP.2020.15/LIPIcs.ECOOP.2020.15.pdf"
+  },
+  {
+    "title": ""
+  },
+  {
+    "title": "With the advent of big data, easy-to-get GPGPU and progresses in neural network modeling \ntechniques, training deep learning model on GPU becomes a popular choice. However, due …",
+    "url": "http://learningsys.org/nips17/assets/papers/paper_18.pdf",
+    "pdf_url": "http://learningsys.org/nips17/assets/papers/paper_18.pdf"
+  },
+  {
+    "title": "… of TensorFlow bugs are … TensorFlow bugs reside in its interfaces (26.24%), learning \nalgorithms (11.79%), and how to compile (8.02%), deploy (7.55%), and install (4.72%) TensorFlow …",
+    "url": "https://link.springer.com/chapter/10.1007/978-3-030-59410-7_40",
+    "pdf_url": "https://www.cs.sjtu.edu.cn/~zhonghao/paper/tfbug.pdf"
+  },
+  {
+    "title": "DeepLab2 is a TensorFlow library for deep labeling, aiming to provide a state-of-the-art and \neasy-to-use TensorFlow codebase for general dense pixel prediction problems in computer …",
+    "url": "https://arxiv.org/abs/2106.09748",
+    "pdf_url": "https://arxiv.org/pdf/2106.09748"
+  },
+  {
+    "title": "… In this paper, based on the Inception-v3 model of TensorFlow platform, we use the transfer \nlearning techniques to retrain facial expression dataset (The Extended Cohn-Kanade dataset)…",
+    "url": "https://www.itm-conferences.org/articles/itmconf/abs/2017/04/itmconf_ita2017_01005/itmconf_ita2017_01005.html",
+    "pdf_url": "https://www.itm-conferences.org/articles/itmconf/pdf/2017/04/itmconf_ita2017_01005.pdf"
+  },
+  {
+    "title": "… TensorFlow Agents, an efficient infrastructure paradigm for building parallel reinforcement \nlearning algorithms in TensorFlow. … This allows the TensorFlow execution engine to parallelize …",
+    "url": "https://arxiv.org/abs/1709.02878",
+    "pdf_url": "https://arxiv.org/pdf/1709.02878"
+  },
+  {
+    "title": "We introduce tf_geometric1, an efficient and friendly library for graph deep learning, which is \ncompatible with both TensorFlow 1.x and 2.x. It provides kernel libraries for building Graph …",
+    "url": "https://dl.acm.org/doi/abs/10.1145/3474085.3478322",
+    "pdf_url": "https://arxiv.org/pdf/2101.11552"
+  },
+  {
+    "title": "… In this work, we present a set of algorithms that employ TensorFlow in Essentia, allow … \nTo show the potential of this new interface with TensorFlow, we provide a number of pre-…",
+    "url": "https://ieeexplore.ieee.org/abstract/document/9054688/",
+    "pdf_url": "https://arxiv.org/pdf/2003.07393"
+  },
+  {
+    "title": "… , painting) real time recognition using TensorFlow [2], an open … main application domain \nfor TensorFlow, including models … neural networks by using TensorFlow retraining pieces of …",
+    "url": "https://ieeexplore.ieee.org/abstract/document/7946991/"
+  },
+  {
+    "title": "… The TensorFlow open source implementation comes with a wealth of GPU kernels for the \nmajority of Ops. Although we gained significantly from using TensorFlow … to TensorFlow. GP …",
+    "url": "https://www.jmlr.org/papers/v18/16-537.html",
+    "pdf_url": "https://www.jmlr.org/papers/volume18/16-537/16-537.pdf"
+  },
+  {
+    "title": "… Another advantage of TensorFlow is that it comes with a supporting tool named TensorBoard \nfor in-depth visualization of the model training progress. One can interactively investigate the�…",
+    "url": "https://www.cell.com/cell-systems/pdf/S2405-4712(16)00010-7.pdf",
+    "pdf_url": "https://www.cell.com/cell-systems/pdf/S2405-4712(16)00010-7.pdf"
+  },
+  {
+    "title": "… Once the hardware of the system is made compatible for TensorFlow … TensorFlow is explained \nin this section. This includes a step-by-step process on how to install Keras in TensorFlow. …",
+    "url": "https://link.springer.com/chapter/10.1007/978-3-030-66519-7_4"
+  },
+  {
+    "title": "This short practical chapter is designed to introduce some deep learning–specific features \nof Swift for TensorFlow. Section 4.1 introduces the concept of tensor data structure which is …",
+    "url": "https://link.springer.com/chapter/10.1007/978-1-4842-6330-3_4"
+  },
+  {
+    "title": "A novel Python framework for Bayesian optimization known as GPflowOpt is introduced. \nThe package is based on the popular GPflow library for Gaussian processes, leveraging the …",
+    "url": "https://arxiv.org/abs/1711.03845",
+    "pdf_url": "https://arxiv.org/pdf/1711.03845"
+  },
+  {
+    "title": "… TensorFlow graphs using Julia syntax, which are interchangeable with the graphs produced \nby Google’s first-party Python TensorFlow … to operate on a TensorFlow. jl Tensor type, which …",
+    "url": "https://joss.theoj.org/papers/10.21105/joss.01002.pdf",
+    "pdf_url": "https://joss.theoj.org/papers/10.21105/joss.01002.pdf"
+  },
+  {
+    "title": "… Using TensorFlow, a popular, open-source, machine-learning framework … TensorFlow \ngraphs (principal component of TensorFlow applications) with both TensorFlow and TensorFlow …",
+    "url": "https://digitalcommons.usu.edu/smallsat/2018/all2018/458/",
+    "pdf_url": "https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=4270&context=smallsat"
+  },
+  {
+    "title": "… Several widely-used ML libraries, such as TensorFlow and Theano, are based on dataflow \n… TensorFlow Debugger (tfdbg), a specialized debugger for ML models written in TensorFlow. …",
+    "url": "https://research.google.com/pubs/archive/45789.pdf",
+    "pdf_url": "https://research.google.com/pubs/archive/45789.pdf"
+  },
+  {
+    "title": "Genetic Programming, a kind of evolutionary computation and machine learning algorithm, \nis shown to benefit significantly from the application of vectorized data and the TensorFlow …",
+    "url": "https://dl.acm.org/doi/abs/10.1145/3067695.3084216",
+    "pdf_url": "https://arxiv.org/pdf/1708.03157"
+  },
+  {
+    "title": "… In this article, we will use TensorFlow to build a simpler classifier from scratch. This \nclassifier will allow us to experiment with designs where the network is too simple (resulting in�…",
+    "url": "https://pubs.rsna.org/doi/abs/10.1148/ryai.2020200012",
+    "pdf_url": "https://pubs.rsna.org/doi/pdf/10.1148/ryai.2020200012"
+  },
+  {
+    "title": "… TensorFlow programmer, thus, there is no need for low-level design details. In the current \npaper, we expand TF2FPGA [13], a TensorFlow… by extending the well known TensorFlow [14,15…",
+    "url": "https://www.mdpi.com/2227-7080/8/1/6",
+    "pdf_url": "https://www.mdpi.com/2227-7080/8/1/6"
+  },
+  {
+    "title": "This paper introduces a new methodology for Alzheimer disease (AD) classification based \non TensorFlow Convolu-tional Neural Network (TF-CNN). The network consists of three …",
+    "url": "https://ieeexplore.ieee.org/abstract/document/8396988/"
+  },
+  {
+    "title": "… a year ago, Google’s TensorFlow package for learning with multilayer … This paper considers \nthe application of TensorFlow-guided … are the training of TensorFlow’s convolutional neural …",
+    "url": "https://ieeexplore.ieee.org/abstract/document/8049170/"
+  },
+  {
+    "title": "We present ShapeFlow, a dynamic abstract interpreter for TensorFlow which quickly catches \ntensor shape incompatibility errors, one of the most common bugs in deep learning code. …",
+    "url": "https://arxiv.org/abs/2011.13452",
+    "pdf_url": "https://arxiv.org/pdf/2011.13452"
+  },
+  {
+    "title": "… TensorFlow, which TensorFlow … TensorFlow Eager eliminates these usability costs without \nsacrificing the benefits furnished by graphs: It provides an imperative front-end to TensorFlow …",
+    "url": "https://proceedings.mlsys.org/paper_files/paper/2019/hash/b3cd73d353d39e5cf6f6e9ff8d14c87f-Abstract.html",
+    "pdf_url": "https://proceedings.mlsys.org/paper_files/paper/2019/file/b3cd73d353d39e5cf6f6e9ff8d14c87f-Paper.pdf"
+  },
+  {
+    "title": "… on TensorFlow, a widely-used machine learning framework. Our design builds on integrating \nTensorFlow … This implies that we need to ensure that the memory footprint of TensorFlow …",
+    "url": "https://arxiv.org/abs/1902.04413",
+    "pdf_url": "https://arxiv.org/pdf/1902.04413"
+  },
+  {
+    "title": "… optimized TensorFlow (v1.12), TensorFlow v1.12 (for GPUs and AMD processors), and \nPyTorch (v1.1) for DNN training. To facilitate distributed training using TensorFlow and PyTorch, …",
+    "url": "https://ieeexplore.ieee.org/abstract/document/8891042/",
+    "pdf_url": "http://nbcl.cse.ohio-state.edu/static/media/talks/slide/Arpan_booth_talk_2.pdf"
+  },
+  {
+    "title": "In this paper, we introduce SciANN, a Python package for scientific computing and physics-informed \ndeep learning using artificial neural networks. SciANN uses the widely used deep-…",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0045782520307374",
+    "pdf_url": "https://arxiv.org/pdf/2005.08803"
+  },
+  {
+    "title": "… and TensorFlow based deep learning model. LoRa sends the sensor data and Tensorflow \n… Object detection and waste classification is done in TensorFlow framework with pre-trained …",
+    "url": "https://ieeexplore.ieee.org/abstract/document/9165744/",
+    "pdf_url": "https://ieeexplore.ieee.org/iel7/6287639/8948470/09165744.pdf"
+  },
+  {
+    "title": "… for the TensorFlow [1] 2.2 in distributed training using Google collab’s notebooks. In the \nexperiments, we use tensorflow.… In our distributed train results show that tensorflow.distribute.…",
+    "url": "https://ieeexplore.ieee.org/abstract/document/9353085/"
+  },
+  {
+    "title": "… In this paper, we considered the workflow of TensorFlow for image recognition. We … using \nTensorFlow for training a network with images, using the benchmark tool from the TensorFlow …",
+    "url": "https://ieeexplore.ieee.org/abstract/document/8752892/",
+    "pdf_url": "https://upcommons.upc.edu/bitstream/handle/2117/131762/TensorFlow%20on%20state-of-the-art%20HPC%20clusters.pdf"
+  },
+  {
+    "title": "This Pdf Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-learn, \nand TensorFlow, 2nd Edition book is not really ordinary book, you have it then the …",
+    "url": "https://www.academia.edu/download/59017397/FULL-PDF-Python-Machine-Learning-Machine-Learning-And-Deep-Learning-With-Python-Scikit-learn-And20190424-128894-1dznkde.pdf"
+  }
+]
