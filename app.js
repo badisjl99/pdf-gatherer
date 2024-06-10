@@ -1,16 +1,19 @@
 const axios = require('axios');
 const cheerio = require('cheerio');
 const fs = require('fs');
+const RateLimit = require('axios-rate-limit');
 
 const baseUrl = 'https://scholar.google.com/scholar';
-const query = 'imed+abassi';
-const maxPages = 2; 
+const query = process.argv[2] || 'Anna+Fabijanska';
+
+// Create an instance of axios with rate limiting
+const http = RateLimit(axios.create(), { maxRequests: 2, perMilliseconds: 1000 });
 
 const scrapePage = async (start) => {
   const url = `${baseUrl}?start=${start}&q=${query}&hl=en&as_sdt=0,5`;
 
   try {
-    const response = await axios.get(url);
+    const response = await http.get(url, { timeout: 10000 }); // Timeout after 10 seconds
     const html = response.data;
     const $ = cheerio.load(html);
     const results = [];
@@ -24,7 +27,8 @@ const scrapePage = async (start) => {
       const link = titleElement.attr('href');
       const pdfLink = pdfElement.attr('href');
 
-      if (title && link && pdfLink) {
+      // Ignore results with pdf_url from https://www.academia.edu
+      if (title && link && pdfLink && pdfLink.endsWith('.pdf') && !pdfLink.includes('https://www.academia.edu')) {
         results.push({
           title: title,
           url: link,
@@ -41,14 +45,19 @@ const scrapePage = async (start) => {
 };
 
 const scrapeAllPages = async () => {
-  const allResults = [];
-  for (let start = 0; start < maxPages * 10; start += 10) {
+  let allResults = [];
+  let start = 0;
+  
+  // Continue scraping until we have 8 PDF links or no more results
+  while (allResults.length < 8) {
     const pageResults = await scrapePage(start);
+    if (pageResults.length === 0) break; // No more results
     allResults.push(...pageResults);
+    start += 10;
   }
 
   const queryFilename = query.replace(/\+/g, '_') + '.json';
-  fs.writeFileSync(queryFilename, JSON.stringify(allResults, null, 2), 'utf-8');
+  fs.writeFileSync(queryFilename, JSON.stringify(allResults.slice(0, 8), null, 2), 'utf-8');
   console.log(`Results saved to ${queryFilename}`);
 };
 
