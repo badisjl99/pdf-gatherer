@@ -20,8 +20,9 @@ npm install
 ## Usage
 Run 
 ```bash
-node app.js
+node app.js [desired topic]
 ```
 
+Example  : node app.js Tensorflow
 
 
