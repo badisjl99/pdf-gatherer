@@ -15,11 +15,13 @@ To install the necessary dependencies, run the following command in the project 
 
 ```bash
 npm install
-
+```
 
 ## Usage
 Run 
 ```bash
 node app.js
+```
+
 
 
