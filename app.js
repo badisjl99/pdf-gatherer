@@ -4,7 +4,7 @@ const fs = require('fs');
 const RateLimit = require('axios-rate-limit');
 
 const baseUrl = 'https://scholar.google.com/scholar';
-const query = process.argv[2] || 'Anna+Fabijanska';
+const query = process.argv[2] ;
 
 // Create an instance of axios with rate limiting
 const http = RateLimit(axios.create(), { maxRequests: 2, perMilliseconds: 1000 });
