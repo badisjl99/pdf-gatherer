@@ -6,8 +6,7 @@ PDF Gatherer is a Node.js application that processes PDF files and extracts rele
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Files](#files)
-- [License](#license)
+
 
 ## Installation
 
