@@ -1,7 +1,8 @@
 const fs = require('fs');
 const pdf = require('pdf-parse');
 
-const pdfPath = 'putin.pdf';
+// Pdf file name goes here
+const pdfPath = 'Pdf file name goes here';
 
 const readPDF = async (filePath) => {
   const dataBuffer = fs.readFileSync(filePath);
